@@ -1,0 +1,98 @@
+[
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhdsa_nI0ZfAr_gF1KoPURLXmpjk90dWgN_T8R3yD7g&s",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "player_role": "Batter",
+    "player_rating": 9.8,
+    "player_price": 210000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuo2ZuCfSruCm3XXTxVPg--XiIHFIlPc4taajv5IkQpg&s=10",
+    "player_name": "Rishabh Pant",
+    "player_country": "India",
+    "player_role": "Wicketkeeper-Batter",
+    "player_rating": 9.6,
+    "player_price": 270000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgkM_Eb9zJfmC221oG8AugHK7QsoxoZcu2LRglJmNmzA&s=10",
+    "player_name": "Shreyas Iyer",
+    "player_country": "India",
+    "player_role": "Batter",
+    "player_rating": 9.1,
+    "player_price": 267500000
+  },
+  {
+    "player_img": "https://en.wikiflux.org/wiki/images/6/6c/Cameron_Green.jpg",
+    "player_name": "Cameron Green",
+    "player_country": "Australia",
+    "player_role": "All-Rounder",
+    "player_rating": 9.0,
+    "player_price": 252000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL5K5T-kAfi0bdIQJA6aiqA073-igO70R9WE2s4AJdQ&s=10",
+    "player_name": "Venkatesh Iyer",
+    "player_country": "India",
+    "player_role": "All-Rounder",
+    "player_rating": 8.8,
+    "player_price": 237500000
+  },
+  {
+    "player_img": "https://sportscafe.in/img/es3/articles/Cricket_1/Heinrich_Klassen_Cricket_South_Africa.scorimg.webp",
+    "player_name": "Heinrich Klaasen",
+    "player_country": "South Africa",
+    "player_role": "Wicketkeeper-Batter",
+    "player_rating": 9.5,
+    "player_price": 230000000
+  },
+  {
+    "player_img": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5368/live/a3670a40-149f-11f0-8f73-31ac8ada8f2a.jpg",
+    "player_name": "Nicholas Pooran",
+    "player_country": "West Indies",
+    "player_role": "Wicketkeeper-Batter",
+    "player_rating": 9.3,
+    "player_price": 210000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6WEqkNeFkhmyyi6pnTlbZ96REfkxS746YFBjjc-dwQ&s=10",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "player_role": "Bowler",
+    "player_rating": 9.9,
+    "player_price": 180000000
+  },
+  {
+    "player_img": "https://c.ndtvimg.com/2025-09/1un384ug_rashid-khan-afp_625x300_02_September_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "player_rating": 9.7,
+    "player_price": 180000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSz62Q3Spro9Czclq_iTrgUfNbvRKsPjDGnYpnIS5FiLnfdbmRG5RYZLm&s=10",
+    "player_name": "Arshdeep Singh",
+    "player_country": "India",
+    "player_role": "Bowler",
+    "player_rating": 9.2,
+    "player_price": 180000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCbmlCHELRqCAVNBcQgcklD7LRvtpQB7s0V_SuM3MnA&s=10",
+    "player_name": "Shubman Gill",
+    "player_country": "India",
+    "player_role": "Batter",
+    "player_rating": 9.4,
+    "player_price": 165000000
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zft0zG-NWoOi1lvFsVVTgwfoHmxelK4gB9BbnQcrrw&s=10",
+    "player_name": "Jos Buttler",
+    "player_country": "England",
+    "player_role": "Wicketkeeper-Batter",
+    "player_rating": 9.2,
+    "player_price": 157500000
+  }
+]

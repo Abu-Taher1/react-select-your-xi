@@ -1,21 +1,27 @@
-import React from "react";
-import logoImg from "./assets/logo.png";
-import dollarImg from "./assets/Currency.svg"
+import React, { Suspense } from "react";
+import Navbar from "./component/Navbar/Navbar.jsx";
+import AvailablePlayer from "./component/AvailablePlayer/AvailablePlayer.jsx";
 
 
+
+const fetchPlayers = async () => {
+  const response = await fetch("/players.json");
+  return response.json();
+}
 
 
 function App() {
+
+  const playersPromise = fetchPlayers();
   return (
     <>
-      <div className="navbar primary-font bg-white max-w-300 mx-auto px-4 py-2 flex items-center justify-between">
-        <div className="flex-1">
-          <img src={logoImg} alt="Logo" />
-        </div>
-        <div className="flex gap-2 items-center border border-gray-300 rounded-lg px-4 py-2">
-          <span>6000000000</span> <span>Coin</span>  <img src={dollarImg} alt="Dollar" />
-        </div>
-      </div>
+      <Navbar />
+
+      <Suspense fallback={<span className="loading loading-dots loading-lg"></span>}>
+        <AvailablePlayer playersPromise={playersPromise}> </AvailablePlayer>
+      </Suspense>
+
+
     </>
   );
 }
